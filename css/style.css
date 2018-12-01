@@ -164,7 +164,7 @@ button#first {
 
 .album-info {
   width: 100%;
-  height: 80vh;
+  height: 50vh;
   display: flex;
   position: relative;
   align-items: flex-end;
@@ -208,7 +208,6 @@ button#first {
   bottom: 10%;
   width: 50%;
   top: 10%;
-  position: absolute;
   left: 5%;
 }
 .album-text h2{
@@ -337,7 +336,6 @@ button#first {
   h3{
     font-size: 10px;
   }
-
   .all-albums{
     right: 0;
   }
@@ -354,6 +352,13 @@ button#first {
   }
   .mainphoto {
     width: 50%;
+    padding-top: 10%;
   }
+  .album-info{
+    height: 80vh;
+  }
+  .album-text{
+    position: absolute;
 
+  }
 }
