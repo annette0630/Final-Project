@@ -169,6 +169,7 @@ button#first {
   position: relative;
   align-items: flex-end;
   padding-top: 12%;
+  z-index: 999;
 }
 
 .album-stats{
