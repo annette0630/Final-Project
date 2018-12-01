@@ -60,6 +60,7 @@ a:hover {
   background-position: center;
   align-items: center;
   min-height: 100%;
+  z-index:1000;
 }
 
 
